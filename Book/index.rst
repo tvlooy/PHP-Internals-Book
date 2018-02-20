@@ -69,7 +69,6 @@ Writing tests applies to both PHP 5 & PHP 7.
     tests/overview.rst
     tests/running_the_test_suite.rst
     tests/phpt_file_structure.rst
-    tests/examining_failed_test_output.rst
 
 Index and search
 ================

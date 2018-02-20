@@ -17,4 +17,3 @@ The following sections still need to be written:
 * Finding untested code (finding_untested_code)
 * Environment variables (advanced/environment_variables)
 * Redirect Tests (advanced/redirect_tests)
-* Step debugging with GDB (advanced/step_debugging_with_gdb)
